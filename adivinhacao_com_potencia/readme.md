@@ -2,7 +2,7 @@
 
 [EN] Scroll down for the **English Version** 🇬🇧
 
-## 🧠 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 Este projeto transforma um clássico truque de mágica matemática em um dispositivo interativo e didático, usando o **Arduino**. O objetivo é demonstrar de forma lúdica o funcionamento do **Sistema Binário** e a decomposição de números em **Potências de Base 2**.
 
@@ -10,7 +10,7 @@ O dispositivo utiliza 5 pares de botões/LEDs, permitindo que um jogador escolha
 
 ---
 
-## 🎲 Regras e Mecânica do Jogo
+## Regras e Mecânica do Jogo
 
 O jogo é implementado em uma placa dupla-face (MDF), separando as entradas das saídas para garantir a surpresa:
 
@@ -20,7 +20,7 @@ O jogo é implementado em uma placa dupla-face (MDF), separando as entradas das 
 
 ---
 
-## 🤯 A Mágica Matemática: Potências de 2
+## A Mágica Matemática: Potências de 2
 
 A lógica reside no **Sistema Binário** (Base 2). Todo número de 1 a 31 possui uma **representação única** como a soma das potências $1, 2, 4, 8$ e $16$.
 
@@ -29,7 +29,7 @@ A lógica reside no **Sistema Binário** (Base 2). Todo número de 1 a 31 possui
 
 ---
 
-## 🛠️ Montagem Prática (Hardware)
+## Montagem Prática (Hardware)
 
 * **Estrutura:** Placa de MDF ou acrílico para separar o ambiente de entrada (botões) do ambiente de saída (LEDs).
 * **Componentes Chave:** Arduino Uno/Nano, 5 Botões Tácteis, 5 LEDs e 5 Resistores de proteção.
@@ -37,7 +37,7 @@ A lógica reside no **Sistema Binário** (Base 2). Todo número de 1 a 31 possui
 
 ---
 
-## 💻 Software (Código Arduino)
+## Software (Código Arduino)
 
 O código utiliza a técnica de **Detecção de Borda (Edge Detection)** e variáveis de estado (`bool buttonStates[]` e `bool ledStates[]`) para implementar a lógica de **alternância (toggle)**.
 
@@ -51,7 +51,7 @@ O código utiliza a técnica de **Detecção de Borda (Edge Detection)** e vari�
 
 [PT] Voltar para a **Versão em Português** 🇧🇷
 
-## 🧠 Project Overview
+## Project Overview
 
 This project transforms a classic mathematical magic trick into an interactive and educational device using the **Arduino**. Its goal is to playfully demonstrate how the **Binary System** and the decomposition of numbers into **Powers of 2** work.
 
@@ -59,7 +59,7 @@ The device uses 5 pairs of buttons/LEDs, allowing one player to choose a secret 
 
 ---
 
-## 🎲 Game Rules and Mechanics
+## Game Rules and Mechanics
 
 The game is implemented on a double-sided board (MDF), separating the inputs from the outputs to ensure the surprise:
 
@@ -69,7 +69,7 @@ The game is implemented on a double-sided board (MDF), separating the inputs fro
 
 ---
 
-## 🤯 The Mathematical Magic: Powers of 2
+## The Mathematical Magic: Powers of 2
 
 The logic behind the trick lies in the **Binary System** (Base 2). Every whole number from 1 to 31 can be formed by a **unique combination** of the powers $1, 2, 4, 8$, and $16$.
 
@@ -78,7 +78,7 @@ The logic behind the trick lies in the **Binary System** (Base 2). Every whole n
 
 ---
 
-## 🛠️ Practical Assembly (Hardware)
+## Practical Assembly (Hardware)
 
 * **Structure:** An MDF or acrylic board is used to separate the input area (buttons) from the output area (LEDs).
 * **Key Components:** Arduino Uno/Nano, 5 Tactile Buttons, 5 LEDs, and 5 protective Resistors.
@@ -86,7 +86,7 @@ The logic behind the trick lies in the **Binary System** (Base 2). Every whole n
 
 ---
 
-## 💻 Software (Arduino Code)
+## Software (Arduino Code)
 
 The code uses **Edge Detection** and state variables (`bool buttonStates[]` and `bool ledStates[]`) to implement the **toggle logic**.
 
