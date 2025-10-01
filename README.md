@@ -30,7 +30,6 @@ Cada pasta contém:
 | [Entrada/Saída com Diodo Laser](./entrada_e_saida_com_diodo_laser) | Sensor de presença com laser |
 | [Motor DC com Controle Remoto](./motor_DC_com_controle_remoto) | Controle remoto de motor DC |
 
-> As fotos reais e descrições detalhadas serão adicionadas em breve.
 
 ## Requisitos
 
