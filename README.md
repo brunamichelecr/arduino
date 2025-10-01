@@ -49,9 +49,10 @@ Gestora e bacharel em Tecnologia da Informação, Engenheira de Computação e l
 - LinkedIn: [brunamcr](https://www.linkedin.com/in/brunamcr)
 
 ---
-# English Version 🇬🇧
 
 # Arduino Projects Repository
+
+[PT] Voltar para a **Versão em Português** 🇧🇷
 
 ## Overview
 
