@@ -39,7 +39,7 @@ Cada pasta contém:
 
 ## Sobre Mim
 
-Gestora e bacharel em Tecnologia da Informação, estudante de Engenharia de Computação e líder da equipe Skywalkers em batalhas de robôs. Apaixonada por soluções em IoT, automação e robótica.
+Gestora e bacharel em Tecnologia da Informação, Engenheira de Computação e líder da equipe Skywalkers em batalhas de robôs. Apaixonada por soluções em IoT, automação e robótica.
 
 ## Contato
 
